@@ -13,5 +13,5 @@ It's also available to look at your own IP.
 - import `sys` 
 
 ### Credits: 
-Github/ truusty | Discord: trusty.py
+Github: `truusty` | Discord: `trusty.py`
 
