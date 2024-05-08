@@ -1,4 +1,4 @@
-# IP - Scanner
+# IP - Checker
 
 A Basic IP-CHECK tool that finds information about the entered IP.
 It's also available too loo at your own IP.
