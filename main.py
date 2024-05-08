@@ -33,7 +33,7 @@ class IPAddressLocator:
             print(self.W + """\n
     #""" + self.B + """ Select option""" + self.W + """ """ + self.W + """
     
-    1)""" + self.W + """ Check your""" + self.W + """ 
+    1)""" + self.W + """ Check your IP""" + self.W + """ 
     2)""" + self.W + """ Check other IP""" + self.W + """
     3)""" + self.W + """ Exit
     """)
