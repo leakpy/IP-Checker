@@ -2,14 +2,12 @@ import json
 import urllib.request
 import webbrowser
 import os
-import sys 
-
+import sys
+import clear
 
 class IPAddressLocator:
     def __init__(self):
         self.R = '\033[91m'
-        self.Y = '\033[93m'
-        self.G = '\033[92m'
         self.B = '\033[1;34m'
         self.W = '\033[0;37m'
         self.path = os.path.isfile('/data/data/com.termux/files/usr/bin/bash')
