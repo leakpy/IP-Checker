@@ -24,7 +24,7 @@ class IPAddressLocator:
          ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝      ╚═╝   """ + self.W + self.W + """
         
         
-         IP Address locator
+         IP Checker
         
     """ + self.W + self.W + """----""" + self.B + """ Github: truusty """ + self.W + """----""" + self.W + "")
 
