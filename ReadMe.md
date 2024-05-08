@@ -10,7 +10,8 @@ It's also available to look at your own IP.
 - import `urllib.request`
 - import `webbrowser`
 - import `os`
-- import `sys` 
+- import `sys`
+- import `clear` 
 
 ### Credits: 
 Github: `truusty` | Discord: `trusty.py`
